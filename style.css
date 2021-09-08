@@ -1,0 +1,50 @@
+
+*{
+    margin:0;
+}
+
+img{
+    width: 100%;
+    height:400px;
+}
+
+body{
+    background-color: lavender;
+}
+
+.contenedor{
+    max-width: 1200px;
+    width: 50%;
+    margin:0 auto;
+}
+
+.fondo{
+    background:white;
+}
+.header{
+    width: 50%;
+    margin:0 auto;
+    padding:10px 0px;
+    font-size: 18px;
+    margin-bottom: 40px;
+}
+
+.card{
+    background-color: white;
+    margin-bottom: 30px;
+}
+
+.card-header{
+    display:flex;
+    justify-content: space-between;
+    padding:10px;
+}
+
+p{
+    padding:10px;
+}
+
+span{
+    color:gainsboro;
+}
+
